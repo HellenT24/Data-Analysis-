@@ -84,4 +84,7 @@ Using Time Series to discover the weekly sales frequency and monthly sales frequ
 
 # Executive Summary.
 
-To-Do - Include your Executive Summary document in your repository.
+# Include your Executive Summary document in your repository.
+- From the Analysis, we suggest that the supermarket need to create more awareness either by sharing fliers, online or outdoor marketing especially in Branch A(which has the highest population) and Branch B(Abuja)
+- we suggest that they look for a better way/method to make the normal customer a member either by introducing a discount or other means.
+- we will also suggest that, they should increase the quantity of Home and lifestyle product since it has the highest total sales, there shouldn't be a shortage of the product.
